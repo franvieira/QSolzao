@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\bin\Debug\netcoreapp3.1\QSolzao.Infra.Shared.deps.json
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\bin\Debug\netcoreapp3.1\QSolzao.Infra.Shared.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\bin\Debug\netcoreapp3.1\QSolzao.Infra.Shared.pdb
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\obj\Debug\netcoreapp3.1\QSolzao.Infra.Shared.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\obj\Debug\netcoreapp3.1\QSolzao.Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\obj\Debug\netcoreapp3.1\QSolzao.Infra.Shared.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\obj\Debug\netcoreapp3.1\QSolzao.Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\obj\Debug\netcoreapp3.1\QSolzao.Infra.Shared.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Infra.Shared\obj\Debug\netcoreapp3.1\QSolzao.Infra.Shared.pdb

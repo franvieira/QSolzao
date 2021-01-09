@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\bin\Debug\netcoreapp3.1\QSolzao.Domain.deps.json
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\bin\Debug\netcoreapp3.1\QSolzao.Domain.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\bin\Debug\netcoreapp3.1\QSolzao.Domain.pdb
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\obj\Debug\netcoreapp3.1\QSolzao.Domain.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\obj\Debug\netcoreapp3.1\QSolzao.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\obj\Debug\netcoreapp3.1\QSolzao.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\obj\Debug\netcoreapp3.1\QSolzao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\obj\Debug\netcoreapp3.1\QSolzao.Domain.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\src\QSolzao.Domain\obj\Debug\netcoreapp3.1\QSolzao.Domain.pdb

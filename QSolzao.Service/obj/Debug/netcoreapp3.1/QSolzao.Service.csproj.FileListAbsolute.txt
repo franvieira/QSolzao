@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Service.deps.json
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Service.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Service.pdb
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Domain.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Infra.Data.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Infra.Shared.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Infra.Data.pdb
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Infra.Shared.pdb
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\bin\Debug\netcoreapp3.1\QSolzao.Domain.pdb
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.csproj.CopyComplete
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.dll
+C:\Users\Usuario\Documents\DDD\QSolzao\QSolzao.Service\obj\Debug\netcoreapp3.1\QSolzao.Service.pdb
